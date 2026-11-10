@@ -30,11 +30,8 @@
 
 </div>
 
-<h3 align="center">activity</h3>
+<h3 align="center">network ops</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dakidakq/Dakidakq/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Dakidakq/Dakidakq/output/github-snake.svg" alt="contribution snake" width="100%" />
-  </picture>
+  <img src="assets/network-ops.svg" alt="live traceroute animation" width="100%" />
 </p>
