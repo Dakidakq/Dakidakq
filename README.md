@@ -25,9 +25,3 @@
 <sub>most of my work lives in private repositories</sub>
 
 </div>
-
-<h3 align="center">network ops</h3>
-
-<p align="center">
-  <img src="assets/network-ops.svg" alt="live traceroute animation" width="100%" />
-</p>
