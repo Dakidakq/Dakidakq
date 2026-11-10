@@ -3,14 +3,10 @@
 <img src="assets/banner.svg" alt="Dakidakq — network engineer" width="100%" />
 
 <a href="https://github.com/Dakidakq">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=network+engineer;python+%C2%B7+c%2B%2B+%C2%B7+typescript+%C2%B7+node.js;packets+usually+go+where+I+tell+them;making+telegram+bots+and+poking+at+ai+agents;if+it+runs%2C+it+runs+in+docker" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=network+engineer;%F0%9F%A5%B6+Setting+up+managers%2C+they+are+cold;python+%C2%B7+c%2B%2B+%C2%B7+typescript+%C2%B7+node.js;packets+usually+go+where+I+tell+them;making+telegram+bots+and+poking+at+ai+agents;if+it+runs%2C+it+runs+in+docker" alt="typing" />
 </a>
 
 </div>
-
-<br />
-
-- :cold_face: Setting up managers, they are cold
 
 <h3 align="center">stack</h3>
 
