@@ -26,28 +26,27 @@
   <circle cx="736" cy="51" r="5.5" fill="#f85149"/>
   <circle cx="756" cy="51" r="5.5" fill="#d29922"/>
   <circle cx="776" cy="51" r="5.5" fill="#3fb950"/>
-  <text class="mono" x="938" y="56" font-size="12" fill="#8b949e" text-anchor="middle">dakidakq@core-01 — ssh</text>
+  <text class="mono" x="938" y="56" font-size="12" fill="#8b949e" text-anchor="middle">dakidakq@core-01 — claude</text>
 
   <g class="mono" font-size="13.5" xml:space="preserve">
-    <text x="736" y="96" fill="#7ee787">$ <tspan fill="#e6edf3">traceroute core.dakidakq.net</tspan></text>
+    <text x="736" y="96" fill="#7ee787">$ <tspan fill="#e6edf3">claude</tspan></text>
 
-    <text x="736" y="124" fill="#e6edf3" opacity="0"> 1  home.lan        <tspan fill="#7ee787">0.4 ms</tspan>
-      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.086;1" values="0;1;1"/>
+    <text x="736" y="124" fill="#d2a8ff" opacity="0">✻ Claude Code — session started
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.09;1" values="0;1;1"/>
     </text>
-    <text x="736" y="152" fill="#e6edf3" opacity="0"> 2  isp-edge        <tspan fill="#7ee787">3.1 ms</tspan>
-      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2;1" values="0;1;1"/>
+    <text x="736" y="160" fill="#8b949e" opacity="0">&gt; <tspan fill="#e6edf3">работаем</tspan>
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.25;1" values="0;1;1"/>
     </text>
-    <text x="736" y="180" fill="#e6edf3" opacity="0"> 3  ix-peering      <tspan fill="#d29922">8.7 ms</tspan>
-      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.314;1" values="0;1;1"/>
+    <text x="736" y="196" fill="#7ee787" opacity="0">● <tspan fill="#e6edf3">ты уже холодный,</tspan>
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.45;1" values="0;1;1"/>
     </text>
-    <text x="736" y="208" fill="#e6edf3" opacity="0"> 4  bgp-core        <tspan fill="#d29922">12.9 ms</tspan>
-      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.429;1" values="0;1;1"/>
-    </text>
-    <text x="736" y="236" fill="#e6edf3" opacity="0"> 5  core.dakidakq   <tspan fill="#58a6ff">14.2 ms</tspan>
-      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.543;1" values="0;1;1"/>
+    <text x="736" y="224" fill="#e6edf3" opacity="0">  как 3 дня замороженный 🥶
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.52;1" values="0;1;1"/>
     </text>
 
-    <text x="736" y="266" fill="#7ee787">$ <tspan class="cursor" fill="#e6edf3">▍</tspan><tspan fill="#3fb950" opacity="0"> ✓ 0% loss<animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.66;0.98;1" values="0;1;1;0"/></tspan></text>
+    <text x="736" y="266" fill="#8b949e" opacity="0">&gt; <tspan class="cursor" fill="#e6edf3">▍</tspan>
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6;1" values="0;1;1"/>
+    </text>
   </g>
 
   <!-- ===== left: text ===== -->
