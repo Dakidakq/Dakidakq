@@ -3,30 +3,17 @@
 <img src="assets/banner.svg" alt="Dakidakq — network engineer" width="100%" />
 
 <a href="https://github.com/Dakidakq">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Network+engineer+by+trade;Python+%C2%B7+C%2B%2B+%C2%B7+TypeScript+%C2%B7+Node.js;Routing+packets+and+shipping+code;Building+Telegram+bots+%26+AI+tools" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=network+engineer;python+%C2%B7+c%2B%2B+%C2%B7+typescript+%C2%B7+node.js;telegram+bots+and+ai+stuff" alt="typing" />
 </a>
 
 </div>
 
 <br />
 
-```text
-dakidakq@core-01# show running-config
-!
-hostname   Dakidakq
-role       network-engineer
-!
-interface  languages
- primary   python  c++  typescript  node.js
-!
-interface  infrastructure
- stack     linux  docker  bash  git
-!
-interface  current-focus
- building  telegram-bots  ai-agents  automation
-!
-end
-```
+- :cold_face: Setting up managers, they are cold
+- :globe_with_meridians: network engineer — packets usually go where I tell them
+- :robot: making telegram bots and poking at ai agents
+- :whale: if it runs, it runs in docker
 
 <h3 align="center">stack</h3>
 
